@@ -1,0 +1,12 @@
+__pycache__
+venv
+.DS_Store
+
+*.txt
+*.log
+*.json
+*.sql
+
+__token.py
+research
+reserves
